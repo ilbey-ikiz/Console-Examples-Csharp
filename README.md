@@ -10,3 +10,7 @@ Girilen sayýnýn asal çarpanlarýný bulan program
 1. Kullanýcý sayý giriþi yapar.
 2. Girilen sayýnýn kaç basamaklý olduðundan yola çýkarak asal çarpanlarýný bulur.
 3. Bulunan asal çarpanlarýný ekrana yazdýrýr.
+
+## 2- Palindrome
+
+Girilen sayýyý , sayýnýn tersiyle karþýlaþtýrarak palindrome olup olmadýðýný kontrol eder. 
