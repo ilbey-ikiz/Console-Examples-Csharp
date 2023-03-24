@@ -14,3 +14,7 @@ Girilen sayýnýn asal çarpanlarýný bulan program
 ## 2- Palindrome
 
 Girilen sayýyý , sayýnýn tersiyle karþýlaþtýrarak palindrome olup olmadýðýný kontrol eder. 
+
+## 3- Playlist Oluþturma
+
+Playlist oluþturan ve playlistten þarký çýkarabilen Console uygulamasý. Array.Resize Kullaným örneði.
