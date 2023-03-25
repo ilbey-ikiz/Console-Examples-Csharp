@@ -18,3 +18,8 @@ Girilen sayýyý , sayýnýn tersiyle karþýlaþtýrarak palindrome olup olmadýðýný kon
 ## 3- Playlist Oluþturma
 
 Playlist oluþturan ve playlistten þarký çýkarabilen Console uygulamasý. Array.Resize Kullaným örneði.
+
+## 4- Koþu Mesafesi Hesaplama Uygulamasý
+
+Kullanýcýnýn girdiði adým uzunluðu ve süre bilgilerine göre koþu mesafesi hesaplama uygulamasý. Metod ve veri kontrolü örneði.
+
