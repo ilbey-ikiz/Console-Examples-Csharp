@@ -23,3 +23,6 @@ Playlist oluþturan ve playlistten þarký çýkarabilen Console uygulamasý. Array.Re
 
 Kullanýcýnýn girdiði adým uzunluðu ve süre bilgilerine göre koþu mesafesi hesaplama uygulamasý. Metod ve veri kontrolü örneði.
 
+## 5- Calisan Maasi Hesaplama Uygulamasi
+
+Çalýþanýn bilgilerine göre maaþýný hesaplama uygulamasý. Ref , Out kullaným örneði 
